@@ -7,10 +7,6 @@ Here’s a more polished, modern, and visually appealing **README.md** with bett
 
 > Your personal AI assistant powered by voice commands
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Open%20Source-orange?style=for-the-badge)
-
 ---
 
 ## ✨ Overview
@@ -189,15 +185,3 @@ This project is **open-source** and free to use.
 ## 💬 Author
 
 **Sourish Halder**
-
-> Building cool Python projects 🚀
-
----
-
-If you want next-level polish, I can also:
-
-* Add **demo GIF preview**
-* Create a **project banner (like pro GitHub repos)**
-* Upgrade this into a **Jarvis-level assistant**
-
-Just tell me 👍
