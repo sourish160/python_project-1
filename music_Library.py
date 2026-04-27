@@ -1,0 +1,16 @@
+music = {
+    "skyfall": "https://youtu.be/sZrTJesvJeo?si=swLN1On2InrGtbzm",
+    "faded": "https://youtu.be/_w3UU6Tlz2o?si=Xg-IuiD9BQwdl1Ri",
+    "home": "https://youtu.be/ijZpMxc18SA?si=-AuRgiJLr4nwpDx4",
+    "peace": "https://youtu.be/jBDxBDCLvzg?si=iNLTxRyoinl5bdT0",
+    "believer": "https://youtu.be/7wtfhZwyrcc",
+    "shape of you": "https://youtu.be/JGwWNGJdvx8",
+    "perfect": "https://youtu.be/2Vv-BfVoq4g",
+    "let her go": "https://youtu.be/RBumgq5yVrA",
+    "counting stars": "https://youtu.be/hT_nvWreIhg",
+    "senorita": "https://youtu.be/Pkh8UtuejGw",
+    "unstoppable": "https://youtu.be/YaEG2aWJnZ8",
+    "on my way": "https://youtu.be/dhYOPzcsbGM",
+    "alone": "https://youtu.be/1-xGerv5FOk",
+    "closer": "https://youtu.be/PT2_F-1esPk",
+}
