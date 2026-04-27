@@ -1,5 +1,4 @@
 # python_project-1
-Here’s a more polished, modern, and visually appealing **README.md** with better structure, badges, and styling:
 
 ---
 
