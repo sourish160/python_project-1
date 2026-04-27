@@ -65,19 +65,19 @@ def process_command(c):
             speak(f"Playing {song}")
 
     
-    # 🕒 Time
+    # Time
     elif "time" in c:
         time_now = datetime.datetime.now().strftime("%I:%M:%S %p")
         speak(f"Right now the time is {time_now}")
 
 
-    # 🧮 Calculator
+    # Calculator
     elif "open calculator" in c:
         speak("Opening Calculator")
         os.system("calc")
 
 
-    # ❌ Exit
+    # Exit
     elif "exit" in c or "stop" in c:
         speak("Goodbye! see you later")
         exit()
@@ -87,7 +87,7 @@ def process_command(c):
 if __name__ == "__main__":
     speak("Initializing Badboy. your personal assistant is ready to serve you.")
     while True:
-        #listen for wake word "Jarvis"
+        
         # obtain audio from the microphone
         r = sr.Recognizer()
         
@@ -113,20 +113,3 @@ if __name__ == "__main__":
 
         except Exception as e:
             print("Error:", e)
-
-
-'''
-call me bad boy
-all my commands are =>
-~ open youtube
-~ open google
-~ search for something in google
-~ open facebook
-~ open linkedin
-~ play any song
-~ play song name
-~ time
-~ open calculator
-~ exit/stop
-'''
-
